@@ -6,6 +6,7 @@ namespace LINQinManhattan.Classes
 {
     public class Geometry
     {
-        public string Type { }
+        public string Type { get; set; }
+        public decimal[] Coodinates { get; set; }
     }
 }

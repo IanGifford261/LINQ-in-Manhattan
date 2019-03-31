@@ -7,7 +7,6 @@ namespace LINQinManhattan.Classes
     public class Data
     {
         public string Type { get; set; }
-
         public Features[] Features { get; set; }
     }
 }
