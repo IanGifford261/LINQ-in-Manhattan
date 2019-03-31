@@ -4,7 +4,10 @@ using System.Text;
 
 namespace LINQinManhattan.Classes
 {
-    class Data
+    public class Data
     {
+        public string Type { get; set; }
+
+        public Features[] Features { get; set; }
     }
 }

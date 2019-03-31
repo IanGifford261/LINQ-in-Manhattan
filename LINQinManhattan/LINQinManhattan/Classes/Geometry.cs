@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LINQinManhattan.Classes
 {
-    public class Properties
+    public class Geometry
     {
 
     }

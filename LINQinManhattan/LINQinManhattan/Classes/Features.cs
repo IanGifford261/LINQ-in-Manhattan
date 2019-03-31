@@ -4,7 +4,8 @@ using System.Text;
 
 namespace LINQinManhattan.Classes
 {
-    class Features
+    public class Features
     {
+
     }
 }

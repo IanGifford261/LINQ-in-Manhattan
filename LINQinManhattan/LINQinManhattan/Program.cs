@@ -6,7 +6,8 @@ namespace LINQinManhattan
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("LINQ in Manhattan");
+
         }
     }
 }
