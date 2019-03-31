@@ -6,6 +6,6 @@ namespace LINQinManhattan.Classes
 {
     public class Geometry
     {
-
+        public string Type { }
     }
 }
