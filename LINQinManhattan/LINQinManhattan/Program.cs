@@ -20,7 +20,7 @@ namespace LINQinManhattan
             string filePath = System.IO.File.ReadAllText("../data.json");
             Data convert = JsonConvert.DeserializeObject<Data>(filePath);
 
-            var query = 
+            var jsonQuery = from 
 
         }
     }
